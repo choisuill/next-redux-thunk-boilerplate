@@ -1,0 +1,5 @@
+# config 제외 
+*.config.*
+
+# test 제외
+*.test.tsx
